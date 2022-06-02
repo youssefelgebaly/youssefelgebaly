@@ -21,12 +21,11 @@
 <img align="left" alt=“json” width="26px" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" />
 
 
-
+<br/>
 
 <!-- 
 | <a href="https://github.com/youssefelgebaly/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefelgebaly&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Youssef's github stats" /></a> 
  -->
-##
  
  ##
 <a href="https://github.com/youssefelgebaly/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefelgebaly&layout=compact&theme=buefy&hide_border=true" /></a> 
