@@ -39,12 +39,8 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?youssefelgebaly=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 
 
-<!-- <a href="https://github.com/youssefelgebaly/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefelgebaly&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Youssef's github stats" /></a>  -->
-
- 
-<a href="https://github.com/youssefelgebaly/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefelgebaly&layout=compact&theme=buefy&hide_border=true" /></a> 
-
+|<a href="https://github.com/youssefelgebaly/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefelgebaly&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Youssef's github stats" /></a>| <a href="https://github.com/youssefelgebaly/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefelgebaly&layout=compact&theme=buefy&hide_border=true" /></a> 
+|--|--|
